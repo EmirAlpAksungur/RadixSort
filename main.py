@@ -95,7 +95,7 @@ def calistir(dosya):
         print(data)
 
 
-txtler = ["10lukliste 7.txt", "100lükliste 4.txt", "100000likliste 4.txt"]
+txtler = ["10lukliste.txt", "100lükliste.txt", "100000likliste.txt"]
 zamanlar = []
 
 for i in range(3):
